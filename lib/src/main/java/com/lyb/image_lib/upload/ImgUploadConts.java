@@ -1,4 +1,4 @@
-package com.lyb.image_lib;
+package com.lyb.image_lib.upload;
 
 public class ImgUploadConts {
 

@@ -1,4 +1,4 @@
-package com.lyb.image_lib;
+package com.lyb.image_lib.upload;
 
 import org.apache.commons.httpclient.methods.multipart.MultipartRequestEntity;
 import org.apache.commons.httpclient.methods.multipart.Part;

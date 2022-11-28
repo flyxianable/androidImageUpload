@@ -1,4 +1,4 @@
-package com.lyb.image_lib;
+package com.lyb.image_lib.upload;
 
 import android.os.Parcel;
 import android.os.Parcelable;
